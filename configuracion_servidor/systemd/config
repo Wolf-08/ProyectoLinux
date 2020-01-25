@@ -2,8 +2,8 @@
 #Se debe crear un archivo con extensión service y un arroba antes del punto para que reciba los parámetros del puerto
 
 [Unit]
-Description=Balanceo de carga para platzi
-Documentation=https://github.com/edisoncast/linux-platzi
+Description=Balanceo de carga para proteco
+Documentation=https://github.com/Wolf-08/ProyectoLinux
 After=network.target
 
 [Service]
